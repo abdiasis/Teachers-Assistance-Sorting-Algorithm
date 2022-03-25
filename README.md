@@ -16,4 +16,4 @@ Converts list to .csv file and outputs it to the proper location<br>
 <br />
 Noted issue: if no start time is given for a class, it will output an empty list<br>
 <br />
-Contributers: Zack Perkins, Kyle Atchley, Nate Goodman, Abdiasis Abdi
+Contributers: Abdiasis Abdi, Kyle Atchley, and Nate Goodman
