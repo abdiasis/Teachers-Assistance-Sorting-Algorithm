@@ -63,7 +63,6 @@ def select_classesfile():
 
     classes_filename.set(filename)
 
-
 def select_output():
 
     directoryname = fd.askdirectory(title="Choose Directory to Save Output", initialdir="/")
